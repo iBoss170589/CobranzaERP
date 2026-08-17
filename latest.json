@@ -1,7 +1,7 @@
 {
     "version":  "1.0.3.0",
     "downloadUrl":  "https://github.com/iBoss170589/CobranzaERP/releases/download/v1.0.3.0/SICARCobranza_1.0.3.0.zip",
-    "sha256":  "FAE53C332ACFD076966B6F091AC201AF2A0F828776B974189A890F2C07C7CA84",
+    "sha256":  "DDD0ADF6EE668B0DCF5F56CD5B2469DB7237F9B6D139E606CA12ABE36CA7F93D",
     "notes":  "Correcciones en comisiones, cambio administrativo de tipo de cobro y edición de nombre de grupos activos",
     "mandatory":  false
 }
