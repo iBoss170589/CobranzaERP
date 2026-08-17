@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.4.0",
-    "downloadUrl":  "https://github.com/iBoss170589/CobranzaERP/releases/download/v1.0.4.0/SICARCobranza_1.0.4.0.zip",
-    "sha256":  "D59ACDFC0DE38B911ADD448514981640CF9F1C64F33370D79913D34B01DE0437",
-    "notes":  "Correcciones en comisiones, cambio administrativo de tipo de cobro y edición de nombre de grupos activos",
+    "version":  "1.0.5.0",
+    "downloadUrl":  "https://github.com/iBoss170589/CobranzaERP/releases/download/v1.0.5.0/SICARCobranza_1.0.5.0.zip",
+    "sha256":  "9B6DF19586BB582BA8D704F718300FE93964C24C9E584C2C40559D83E84FF5AD",
+    "notes":  "Correcciones en comisiones cuando se regresa todo, ajuste de notas pagadas del mes anterior no generan mov de efectivo en el corte",
     "mandatory":  false
 }
