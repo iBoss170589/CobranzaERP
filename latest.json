@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.8.1",
-    "downloadUrl":  "https://github.com/iBoss170589/CobranzaERP/releases/download/v1.0.8.1/SICARCobranza_1.0.8.1.zip",
-    "sha256":  "9806F3996A57B03E22DB005E4E32B9ACA3596F1137B6587F261474F7D422564C",
+    "version":  "1.0.9.0",
+    "downloadUrl":  "https://github.com/iBoss170589/CobranzaERP/releases/download/v1.0.9.0/SICARCobranza_1.0.9.0.zip",
+    "sha256":  "8084CAEF7234712564B9EACF11B72B338A5A4DC1F694CF2510125D054C5C7A67",
     "notes":  "ajuste de notas pagadas del mes anterior no generan mov de efectivo en el corte",
     "mandatory":  false
 }
