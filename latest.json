@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.9.0",
-    "downloadUrl":  "https://github.com/iBoss170589/CobranzaERP/releases/download/v1.0.9.0/SICARCobranza_1.0.9.0.zip",
-    "sha256":  "8084CAEF7234712564B9EACF11B72B338A5A4DC1F694CF2510125D054C5C7A67",
-    "notes":  "ajuste de notas pagadas del mes anterior no generan mov de efectivo en el corte",
+    "version":  "1.0.10.0",
+    "downloadUrl":  "https://github.com/iBoss170589/CobranzaERP/releases/download/v1.0.10.0/SICARCobranza_1.0.10.0.zip",
+    "sha256":  "AFF8291B638ABB2194D1E253B2A557A4C5530DFADDCB32570639EBD4F39C3F5E",
+    "notes":  "ajustar cobro como usuario normal, y direccionar abonos y pagos de un grupo a otro desde admin",
     "mandatory":  false
 }
