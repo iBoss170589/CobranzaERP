@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.13.0",
-    "downloadUrl":  "https://github.com/iBoss170589/CobranzaERP/releases/download/v1.0.13.0/SICARCobranza_1.0.13.0.zip",
-    "sha256":  "1423CB7384BADEAF86D393DBDF57C9A5338167D77461515C7860FF8F2EFA1B1B",
-    "notes":  "ajustar bonos e impresión 2.0",
+    "version":  "1.0.14.0",
+    "downloadUrl":  "https://github.com/iBoss170589/CobranzaERP/releases/download/v1.0.14.0/SICARCobranza_1.0.14.0.zip",
+    "sha256":  "A69163329107082AAD2E0ACF9BA3152799BA2383C5A5D51A5F0C0A4DADA28F42",
+    "notes":  "visualizador de movimientos",
     "mandatory":  false
 }
