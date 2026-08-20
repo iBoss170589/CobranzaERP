@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.16.0",
-    "downloadUrl":  "https://github.com/iBoss170589/CobranzaERP/releases/download/v1.0.16.0/SICARCobranza_1.0.16.0.zip",
-    "sha256":  "77FCA5CA576B73550B87CFAA2187F6D49AE8F61B7B51FDA582E723DC3564DFD2",
-    "notes":  "cambio de lógica esp/cons e impresión",
+    "version":  "1.0.17.0",
+    "downloadUrl":  "https://github.com/iBoss170589/CobranzaERP/releases/download/v1.0.17.0/SICARCobranza_1.0.17.0.zip",
+    "sha256":  "903E89C7ACA4342149F38DC33784F8D6922C108A541EE15D031F943F4F12A8BD",
+    "notes":  "cambio de lógica bonos",
     "mandatory":  false
 }
