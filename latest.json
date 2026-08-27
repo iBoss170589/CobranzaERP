@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.28.0",
-    "downloadUrl":  "https://github.com/iBoss170589/CobranzaERP/releases/download/v1.0.28.0/SICARCobranza_1.0.28.0.zip",
-    "sha256":  "E2EAFA42DC84B288F6BD786752E780ABB4FECA6449857983EA18D727BD60D04F",
-    "notes":  "cajeros 6.0",
+    "version":  "1.0.29.0",
+    "downloadUrl":  "https://github.com/iBoss170589/CobranzaERP/releases/download/v1.0.29.0/SICARCobranza_1.0.29.0.zip",
+    "sha256":  "13FDAEF71BB851AD8998B17F1708F842ECE4CC8967A799F8FBA3748079CE3663",
+    "notes":  "cajeros 7.0",
     "mandatory":  false
 }
