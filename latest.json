@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.31.0",
-    "downloadUrl":  "https://github.com/iBoss170589/CobranzaERP/releases/download/v1.0.31.0/SICARCobranza_1.0.31.0.zip",
-    "sha256":  "DEB4391158CDCAA08B8BC32E2410EFBCE16FCA1C69F224E843AF4587053C1B9E",
-    "notes":  "cajeros 9.0",
+    "version":  "1.0.32.0",
+    "downloadUrl":  "https://github.com/iBoss170589/CobranzaERP/releases/download/v1.0.32.0/SICARCobranza_1.0.32.0.zip",
+    "sha256":  "397B3351803F278BA1785AEED90EA4C1E09FF01C024AB592D507B5DD82386D66",
+    "notes":  "bonos y cobro 9.0",
     "mandatory":  false
 }
