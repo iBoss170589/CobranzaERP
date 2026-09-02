@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.33.0",
-    "downloadUrl":  "https://github.com/iBoss170589/CobranzaERP/releases/download/v1.0.33.0/SICARCobranza_1.0.33.0.zip",
-    "sha256":  "18A9E703340B9790AEC26660BE17403317A180067DCE61DF5D6E8F747D19A854",
-    "notes":  "arqueo 10",
+    "version":  "1.0.34.0",
+    "downloadUrl":  "https://github.com/iBoss170589/CobranzaERP/releases/download/v1.0.34.0/SICARCobranza_1.0.34.0.zip",
+    "sha256":  "7821F22CE7023955604EE737EAA4E3DD0BCF07AFBA08851F9C9B542568EBA69E",
+    "notes":  "comisiones",
     "mandatory":  false
 }
