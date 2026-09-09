@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.36.0",
-    "downloadUrl":  "https://github.com/iBoss170589/CobranzaERP/releases/download/v1.0.36.0/SICARCobranza_1.0.36.0.zip",
-    "sha256":  "D709B03409DD7C2A08A188786297E4B6A0B5DD60FAD75824E687564AAF563C2B",
-    "notes":  "COM 14%",
+    "version":  "1.0.37.0",
+    "downloadUrl":  "https://github.com/iBoss170589/CobranzaERP/releases/download/v1.0.37.0/SICARCobranza_1.0.37.0.zip",
+    "sha256":  "7F692516533BC3C2C43B44D58515C82B712410A01CAFD456E389DECB602D3E93",
+    "notes":  "PXC ABONO",
     "mandatory":  false
 }
